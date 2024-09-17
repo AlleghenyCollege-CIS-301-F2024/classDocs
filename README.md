@@ -233,7 +233,9 @@ For questions regarding the application and usage of tokens, students are encour
 
 ### Gradebook Repository
 
-TBA: GradeBook repository
+GradeBook repository will be used to deliver your grades from your activities and labs to you. In this repository, you will find a file which contains the same information that the instructor has in the gradebook. While it is a repository that you will `pull` from, you will never need to `push` anything to this repository.
+
+Please use the following URL to create your gradebook repository; [https://classroom.github.com/a/txKMvADl](https://classroom.github.com/a/txKMvADl).
 
 ### Bring your own computer to class
 
@@ -352,7 +354,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | Monday, 2 Sept | No class |
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
 | 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
-| 4 | day month year | Statistics, basics, describing data |
+| 4 | 18 September 2024 | First steps, Statistics, Basics, Describing data |
 | 5 | day month year | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
 | 6 | day month year | Exam |
 | 7 | day month year | Modeling formal basics: random decision forests, support vector machines |
