@@ -354,8 +354,8 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | Monday, 2 Sept | No class |
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
 | 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
-| 4 | 18 September 2024 | First steps, Statistics, Basics, Describing data |
-| 5 | day month year | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
+| 4 | 18 September 2024 | First steps, Basics, Describing data |
+| 5 | day month year | Statistics, T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
 | 6 | day month year | Exam |
 | 7 | day month year | Modeling formal basics: random decision forests, support vector machines |
 | 8 | day month year | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
