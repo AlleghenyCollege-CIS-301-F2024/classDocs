@@ -221,7 +221,7 @@ _Please do not email your work to the instructor._
 
 ### Course Tokens
 
-In our course, students are permitted to utilize two tokens to extend deadlines for assignments, quizzes, and tests (not final projects). The application of a token typically does not require interaction with the course instructor, except in extraordinary circumstances such as those documented as severe and extenuating or those that breach the CIS policy document or any College-approved policy.
+In our course, students are permitted to utilize two tokens to extend deadlines for assignments and tests (not final projects). The application of a token typically does not require interaction with the course instructor, except in extraordinary circumstances such as those documented as severe and extenuating or those that breach the CIS policy document or any College-approved policy.
 
 The rationale behind the use of tokens is outlined in our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
 
