@@ -1,5 +1,3 @@
-# demo code of quantiles for simple data set
-
 rm(list = ls()) # clear out the variables from memory to make a clean execution of the code.
 
 # If you want to remove all previous plots and clear the console, run the following two lines.
@@ -7,9 +5,26 @@ graphics.off() # clear out all plots from previous work.
 
 cat("\014") # clear the console
 
-library(tidyverse)
-library(tibble)
-library(dplyr) # and load tidyverse too!
+
+# A better way to code the installation of libraries.
+# Find out if the library is not already installed and
+# if not, install it, the load it as normal.
+
+if(!require('tidyverse')) {
+  install.packages('tidyverse')
+  library('tidyverse')
+}
+
+if(!require('tibble')) {
+  install.packages('tibble')
+  library('tibble')
+}
+
+if(!require('dplyr')) {
+  install.packages('dplyr')
+  library('dplyr')
+}
+
 data_people <- tibble::tribble(
   ~EyeColour, ~Height, ~Weight, ~Age,
   "Blue",        1.8, 110L, 18L,
