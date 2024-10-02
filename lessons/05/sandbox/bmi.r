@@ -38,11 +38,15 @@ data_people <- tibble::tribble(
 )
 # Find the average BMI of people with blue eyes using piping
 # Note: BMI = (height / (weight * weight))
-data_people %>% select(EyeColour, Height, Weight) %>% filter(EyeColour=="Blue") %>% mutate(BMI = Weight / Height^2) %>% summary(averageBMI == mean(BMI))
+data_people %>% select(EyeColour, Height, Weight) %>% 
+  filter(EyeColour=="Blue") %>% mutate(BMI = Weight / Height^2) %>%
+  summary(averageBMI == mean(BMI))
 
 ggplot(data = data_people) + 
-  geom_point(mapping = aes(y = Height, x = Weight, color = Age )) + geom_smooth(mapping = aes(y = Height, x = Weight))
+  geom_point(mapping = aes(y = Height, x = Weight, color = Age )) + 
+  geom_smooth(mapping = aes(y = Height, x = Weight))
 # Try playing with the settings!!
 
-ggplot(data = data_people) + geom_point(mapping = aes(y = Height, x = Weight, color = Age )) + geom_smooth(mapping = aes(y = Height, x = Weight )) + facet_wrap(~EyeColour)
+ggplot(data = data_people) +
+  geom_point(mapping = aes(y = Height, x = Weight, color = Age )) + geom_smooth(mapping = aes(y = Height, x = Weight )) + facet_wrap(~EyeColour)
 

@@ -25,6 +25,13 @@ Please complete the __attendance__ [form](https://forms.gle/iaY7zBmxj8KvsDMa8) b
 
 Note: recording attendance is part of our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
 
+
+## Token Form
+
+To request one of your two tokens to provide you with an extension for an assignment, activity or exam, please complete the following [form](https://forms.gle/w5ofsSZq7ruXA3u1A). 
+
+__Note: Please let the instructor know by Discord that you have completed the form as it may go unnoticed otherwise.__
+
 ## Table of Contents
 
 - [CMPSC 301: Data Science Course Syllabus](#cmpsc-301-data-science-course-syllabus)
@@ -32,6 +39,7 @@ Note: recording attendance is part of our departmental [policy](https://www.cis.
   - [Syllabus Version](#syllabus-version)
   - [Department Policies](#department-policies)
   - [Attendance Form](#attendance-form)
+  - [Token Form](#token-form)
   - [Table of Contents](#table-of-contents)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
@@ -355,8 +363,8 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
 | 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
 | 4 | 18 September 2024 | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
-| 5 | day month year | Statistics, T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
-| 6 | day month year | Exam |
+| 5 | 23 September 2024 | Statistics, T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
+| 6 | 30 September 2024 | [Activity 03](https://classroom.github.com/a/cK5dMdHQ), Exam |
 | 7 | day month year | Modeling formal basics: random decision forests, support vector machines |
 | 8 | day month year | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
 | 9 | day month year | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
