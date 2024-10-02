@@ -25,13 +25,6 @@ Please complete the __attendance__ [form](https://forms.gle/iaY7zBmxj8KvsDMa8) b
 
 Note: recording attendance is part of our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
 
-
-## Token Form
-
-To request one of your two tokens to provide you with an extension for an assignment, activity or exam, please complete the following [form](https://forms.gle/w5ofsSZq7ruXA3u1A). 
-
-__Note: Please let the instructor know by Discord that you have completed the form as it may go unnoticed otherwise.__
-
 ## Table of Contents
 
 - [CMPSC 301: Data Science Course Syllabus](#cmpsc-301-data-science-course-syllabus)
@@ -39,7 +32,6 @@ __Note: Please let the instructor know by Discord that you have completed the fo
   - [Syllabus Version](#syllabus-version)
   - [Department Policies](#department-policies)
   - [Attendance Form](#attendance-form)
-  - [Token Form](#token-form)
   - [Table of Contents](#table-of-contents)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
@@ -187,7 +179,7 @@ The grade that a student receives in this class will be based on the following c
 |:-------------------- | :--------- | :-----------------|
 | Participation and Activities   | 20%        | check mark grade|
 | Lab Assignments       | 40%        | letter grade|
-| Midterm Exam          | 20%        | letter grade|
+| Exam                  | 20%        | letter grade|
 | Final Project         | 20%        | letter grade|
 | Total                 | 100%       | |
 
@@ -206,7 +198,7 @@ The grade that a student receives in this class will be based on the following c
 
 - __Activities__: Students are offered challenges to test their understanding of material from the course and textbook. Challenges include programming concepts, data handling, approaches to analysis, interpretation, in addition to other types of skills that are intimately associated to data science. Unless other information is given about a due date, activities are to be completed by the end of class.
 
-- __Midterm Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
+- __Exam__: A exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
 
 - __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the analysis of data. All of the laboratory assignments require the use of the provided tools to study, design, implement, and evaluate systems that solve data analytics problems. In addition
  to demonstration of the technical skills through the utilized or developed software for data analysis, some of the laboratory assignments in this course may also expect students to read a related article and to lead a discussion or to give a short presentation related to the assigned article.
@@ -363,8 +355,8 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
 | 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
 | 4 | 18 September 2024 | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
-| 5 | 23 September 2024 | Statistics, T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
-| 6 | 30 September 2024 | [Activity 03](https://classroom.github.com/a/cK5dMdHQ), Exam |
+| 5 | day month year | Statistics, T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
+| 6 | day month year | Exam |
 | 7 | day month year | Modeling formal basics: random decision forests, support vector machines |
 | 8 | day month year | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
 | 9 | day month year | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
