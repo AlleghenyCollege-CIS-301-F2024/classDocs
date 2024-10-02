@@ -179,7 +179,7 @@ The grade that a student receives in this class will be based on the following c
 |:-------------------- | :--------- | :-----------------|
 | Participation and Activities   | 20%        | check mark grade|
 | Lab Assignments       | 40%        | letter grade|
-| Exam                  | 20%        | letter grade|
+| Exams                  | 20%        | letter grade|
 | Final Project         | 20%        | letter grade|
 | Total                 | 100%       | |
 
@@ -198,7 +198,7 @@ The grade that a student receives in this class will be based on the following c
 
 - __Activities__: Students are offered challenges to test their understanding of material from the course and textbook. Challenges include programming concepts, data handling, approaches to analysis, interpretation, in addition to other types of skills that are intimately associated to data science. Unless other information is given about a due date, activities are to be completed by the end of class.
 
-- __Exam__: A exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
+- __Exams__: Exams will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
 
 - __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the analysis of data. All of the laboratory assignments require the use of the provided tools to study, design, implement, and evaluate systems that solve data analytics problems. In addition
  to demonstration of the technical skills through the utilized or developed software for data analysis, some of the laboratory assignments in this course may also expect students to read a related article and to lead a discussion or to give a short presentation related to the assigned article.
