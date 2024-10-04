@@ -361,10 +361,10 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
 | 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
 | 4 | 18 Sept 2024 | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
-| 5 | 23 Sept 2024 | Statistics, T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
-| 6 | 30 Sept 2024 | [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
-| 7 | day month year | Modeling formal basics: random decision forests, support vector machines |
-| 8 | day month year | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
+| 5 | 23 Sept 2024 | Statistics, T-tests |
+| 6 | 30 Sept 2024 | [Activity04](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
+| 7 | day month year | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA) |
+| 8 | day month year |  Random decision forests, Support vector machines, Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
 | 9 | day month year | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
 | 10 | day month year | Machine Learning (Unsupervised): k-means clustering, [Examples](https://www.ibm.com/topics/unsupervised-learning/) |
 | 11 | day month year | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, [Examples](https://www.ibm.com/topics/reinforcement-learning) Linear Neural Networks for Classification |
