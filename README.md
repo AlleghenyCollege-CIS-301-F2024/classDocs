@@ -27,7 +27,8 @@ Note: recording attendance is part of our departmental [policy](https://www.cis.
 
 ## Token Form
 
-To request one of your two tokens to provide you with an extension for an assignment, activity or exam, please complete the following [form](https://forms.gle/w5ofsSZq7ruXA3u1A). 
+To request one of your two tokens to provide you with an extension for an assignment, activity or exam, please complete the following [form](https://forms.gle/w5ofsSZq7ruXA3u1A).
+
 __Note: Please let the instructor know by Discord that you have completed the form as it may go unnoticed otherwise.__
 
 ## Table of Contents
@@ -362,7 +363,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
 | 4 | 18 Sept 2024 | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
 | 5 | 23 Sept 2024 | Statistics, T-tests |
-| 6 | 30 Sept 2024 | [Activity04](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
+| 6 | 30 Sept 2024 | [Activity03](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
 | 7 | day month year | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA) |
 | 8 | day month year |  Random decision forests, Support vector machines, Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
 | 9 | day month year | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
