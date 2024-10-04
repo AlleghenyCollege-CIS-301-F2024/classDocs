@@ -25,6 +25,10 @@ Please complete the __attendance__ [form](https://forms.gle/iaY7zBmxj8KvsDMa8) b
 
 Note: recording attendance is part of our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
 
+## Token Form
+To request one of your two tokens to provide you with an extension for an assignment, activity or exam, please complete the following [form](https://forms.gle/w5ofsSZq7ruXA3u1A). 
+__Note: Please let the instructor know by Discord that you have completed the form as it may go unnoticed otherwise.__
+
 ## Table of Contents
 
 - [CMPSC 301: Data Science Course Syllabus](#cmpsc-301-data-science-course-syllabus)
@@ -32,6 +36,7 @@ Note: recording attendance is part of our departmental [policy](https://www.cis.
   - [Syllabus Version](#syllabus-version)
   - [Department Policies](#department-policies)
   - [Attendance Form](#attendance-form)
+  - [Token Form](#token-form)
   - [Table of Contents](#table-of-contents)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
