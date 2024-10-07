@@ -15,6 +15,11 @@ if(!require('tidyverse')) {
   library('tidyverse')
 }
 
+
+if(!require('psych')) {
+  install.packages('psych')
+  library('psych')
+}
 # Set seed for reproducibility
 set.seed(123)
 
