@@ -366,7 +366,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 6 | 30 Sept 2024 | [Activity03](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
 | 7 | day month year | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA), [Activity05](https://classroom.github.com/a/QbqxVhUt) |
 | 8 | day month year |  Random decision forests, Support vector machines, Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
-| 9 | day month year | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
+| 9 | 14 Oct 2024 | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html), [Lab04](https://classroom.github.com/a/doBwuHZ5) |
 | 10 | day month year | Machine Learning (Unsupervised): k-means clustering, [Examples](https://www.ibm.com/topics/unsupervised-learning/) |
 | 11 | day month year | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, [Examples](https://www.ibm.com/topics/reinforcement-learning) Linear Neural Networks for Classification |
 | 12 | day month year | State of the art: Sentiment Analysis, Text Analysis |
