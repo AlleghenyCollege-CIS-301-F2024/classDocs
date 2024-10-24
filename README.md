@@ -358,19 +358,14 @@ Below is a __tentative__ schedule of covered topics and activities.
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
 | 1 | 28 August 2024 | Intro to the course, [Department core values](https://docs.google.com/presentation/d/1ShEG7fO-OI-O06JW6VB8CTnLyDb5I4Tj6WCOAAXkIFU/edit?usp=sharing), syllabus, Ungraded [activity](lessons/01/wordSearch/README.md), Getting to know you [survey](https://forms.gle/a7cMWsG5Sd5Wn2c78) |
-| 2 | Monday, 2 Sept | No class |
-| 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
-| 3 | 9 Sept 2024 | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
-| 4 | 18 Sept 2024 | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
-| 5 | 23 Sept 2024 | Statistics, T-tests |
-| 6 | 30 Sept 2024 | [Activity03](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
-| 7 | day month year | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA), [Activity05](https://classroom.github.com/a/QbqxVhUt) |
-| 8 | day month year |  Random decision forests, Support vector machines, Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
-| 9 | 14 Oct 2024 | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html), [Lab04](https://classroom.github.com/a/doBwuHZ5) |
-| 10 | day month year | Machine Learning (Unsupervised): k-means clustering, [Examples](https://www.ibm.com/topics/unsupervised-learning/) |
-| 11 | day month year | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, [Examples](https://www.ibm.com/topics/reinforcement-learning) Linear Neural Networks for Classification |
-| 12 | day month year | State of the art: Sentiment Analysis, Text Analysis |
-| 13 | day month year | State of the art: Facial Recognition, percolation (maybe) |
-| 14 | day month year | Exam |
-| 15 | Projects | Presentations |
-| 16 | Projects | Due date |
+| 2 | Monday, 2  | No class |
+| 2 | 4 Sept  | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
+| 3 | 9 Sept  | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
+| 4 | 18 Sept  | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
+| 5 | 23 Sept  | Statistics, T-tests |
+| 6 | 30 Sept  | [Activity03](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
+| 7 | 7 Oct  | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA), [Activity05](https://classroom.github.com/a/QbqxVhUt) |
+| 8 | 14 Oct  |  Machine Learning (supervised): Linear Regression models, [Lab04](https://classroom.github.com/a/doBwuHZ5) |
+| 9 | 21 Oct  |  MultiLinear Regression models |
+
+(Check back periodically to find updates to our schedule.)
