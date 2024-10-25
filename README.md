@@ -366,6 +366,6 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 6 | 30 Sept  | [Activity03](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
 | 7 | 7 Oct  | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA), [Activity05](https://classroom.github.com/a/QbqxVhUt) |
 | 8 | 14 Oct  |  Machine Learning (supervised): Linear Regression models, [Lab04](https://classroom.github.com/a/doBwuHZ5) |
-| 9 | 21 Oct  |  MultiLinear Regression models |
+| 9 | 21 Oct  |  MultiLinear Regression models, [Activity 06](https://classroom.github.com/a/2KE9UpMD)|
 
 (Check back periodically to find updates to our schedule.)
