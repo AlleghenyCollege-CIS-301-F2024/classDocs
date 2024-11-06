@@ -368,7 +368,6 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 8 | 14 Oct  |  Machine Learning (supervised): Linear Regression models, [Lab04](https://classroom.github.com/a/doBwuHZ5) |
 | 9 | 21 Oct  |  MultiLinear Regression models, [Activity 06](https://classroom.github.com/a/2KE9UpMD)|
 | 10 | 28 Oct |  MultiLinear Regression (multicollinearity, model summaries, etc), [Activity 07](https://github.com/AlleghenyCollege-CIS-301-F2024/classDocs/blob/main/lessons/10/10_30October2023_groupProject.pdf), [Lab 05](https://classroom.github.com/a/TMDqb1L0)|
-| 11 | 4 Nov  |  Discussion of The Vaccine Lab|
-
+| 11 | 4 Nov  |  Discussion of The Vaccine Lab,  Intro to Decision Trees, Activity 07|
 
 (Check back periodically to find updates to our schedule.)
