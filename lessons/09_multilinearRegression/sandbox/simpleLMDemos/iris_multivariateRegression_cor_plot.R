@@ -14,7 +14,10 @@ if(!require('tidyverse')) {
   install.packages('tidyverse')
   library('tidyverse')
 }
-
+if(!require('psych')) {
+  install.packages('psych')
+  library('psych')
+}
 # Load the iris dataset
 data(iris)
 
