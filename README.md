@@ -370,4 +370,6 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 10 | 28 Oct |  MultiLinear Regression (multicollinearity, model summaries, etc), [Activity 07](https://github.com/AlleghenyCollege-CIS-301-F2024/classDocs/blob/main/lessons/10/10_30October2023_groupProject.pdf), [Lab 05](https://classroom.github.com/a/TMDqb1L0)|
 | 11 | 4 Nov  |  Discussion of The Vaccine Lab,  Intro to Decision Trees, Activity 07|
 | 12 | 13 Nov | Announcement of [Final Project](https://classroom.github.com/a/kqQHui-V)|
+| 13 | 18 Nov | Decision Trees and Random Forests (see supplied tutorials for ideas, [Activity 09](https://classroom.github.com/a/cWEgjJwm))|
+
 (Check back periodically to find updates to our schedule.)
