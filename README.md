@@ -371,5 +371,6 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 11 | 4 Nov  |  Discussion of The Vaccine Lab,  Intro to Decision Trees, Activity 07|
 | 12 | 13 Nov | Announcement of [Final Project](https://classroom.github.com/a/kqQHui-V)|
 | 13 | 18 Nov | Decision Trees and Random Forests (see supplied tutorials for ideas, [Activity 09](https://classroom.github.com/a/cWEgjJwm))|
+| 13 | 22 Nov | Scikit-Learn tutorials for ideas, [Activity10](https://classroom.github.com/a/wbtUJrkO)|
 
 (Check back periodically to find updates to our schedule.)
