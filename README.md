@@ -372,5 +372,10 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 12 | 13 Nov | Announcement of [Final Project](https://classroom.github.com/a/kqQHui-V)|
 | 13 | 18 Nov | Decision Trees and Random Forests (see supplied tutorials for ideas, [Activity 09](https://classroom.github.com/a/cWEgjJwm))|
 | 13 | 22 Nov | Scikit-Learn tutorials for ideas, [Activity10](https://classroom.github.com/a/wbtUJrkO)|
+| 13 | 2 Dec | Presentations for activity 10|
+| 14 | 25 Nov | Work day on projects|
+| 16 | 4 Dec | OBC's research demo, Work day on projects, Course evaluations|
+| 16 | 6 Dec | The Great Review|
 
 (Check back periodically to find updates to our schedule.)
+
