@@ -357,21 +357,21 @@ Below is a __tentative__ schedule of covered topics and activities.
 
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
-| 1 | 28 August 2024 | Intro to the course, [Department core values](https://docs.google.com/presentation/d/1ShEG7fO-OI-O06JW6VB8CTnLyDb5I4Tj6WCOAAXkIFU/edit?usp=sharing), syllabus, Ungraded [activity](lessons/01/wordSearch/README.md), Getting to know you [survey](https://forms.gle/a7cMWsG5Sd5Wn2c78) |
+| 1 | 28 August 2024 | Intro to the course, [Department core values](), syllabus, Ungraded [activity](), Getting to know you [survey]() |
 | 2 | Monday, 2  | No class |
-| 2 | 4 Sept  | Programming in R, Exploratory Analytics, [Lab01](https://classroom.github.com/a/Y0Duwp3i), [Activity01](https://classroom.github.com/a/jxPGbLiQ)|
-| 3 | 9 Sept  | Types of Data, Exploratory steps, Transformations, [Lab02](https://classroom.github.com/a/eBoual3Z), [Activity02](https://classroom.github.com/a/KhLCc5_q) |
-| 4 | 18 Sept  | First steps, Basics, Describing data, [Lab 03](https://classroom.github.com/a/GeqgdpXv) |
+| 2 | 4 Sept  | Programming in R, Exploratory Analytics, [Lab01](), [Activity01]()|
+| 3 | 9 Sept  | Types of Data, Exploratory steps, Transformations, [Lab02](), [Activity02]() |
+| 4 | 18 Sept  | First steps, Basics, Describing data, [Lab 03]() |
 | 5 | 23 Sept  | Statistics, T-tests |
-| 6 | 30 Sept  | [Activity03](https://classroom.github.com/a/cK5dMdHQ), [Exam](https://classroom.github.com/a/DWEIpV8G), [Activity04](https://classroom.github.com/a/l_G8f_Ni)|
-| 7 | 7 Oct  | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA), [Activity05](https://classroom.github.com/a/QbqxVhUt) |
-| 8 | 14 Oct  |  Machine Learning (supervised): Linear Regression models, [Lab04](https://classroom.github.com/a/doBwuHZ5) |
-| 9 | 21 Oct  |  MultiLinear Regression models, [Activity 06](https://classroom.github.com/a/2KE9UpMD)|
-| 10 | 28 Oct |  MultiLinear Regression (multicollinearity, model summaries, etc), [Activity 07](https://github.com/AlleghenyCollege-CIS-301-F2024/classDocs/blob/main/lessons/10/10_30October2023_groupProject.pdf), [Lab 05](https://classroom.github.com/a/TMDqb1L0)|
+| 6 | 30 Sept  | [Activity03](), [Exam](), [Activity04]()|
+| 7 | 7 Oct  | Modeling formal basics: Analysis of variance (ANOVA), Multivariate analysis of variance (MANOVA), [Activity05]() |
+| 8 | 14 Oct  |  Machine Learning (supervised): Linear Regression models, [Lab04]() |
+| 9 | 21 Oct  |  MultiLinear Regression models, [Activity 06]()|
+| 10 | 28 Oct |  MultiLinear Regression (multicollinearity, model summaries, etc), [Activity 07](), [Lab 05]()|
 | 11 | 4 Nov  |  Discussion of The Vaccine Lab,  Intro to Decision Trees, Activity 07|
-| 12 | 13 Nov | Announcement of [Final Project](https://classroom.github.com/a/kqQHui-V)|
-| 13 | 18 Nov | Decision Trees and Random Forests (see supplied tutorials for ideas, [Activity 09](https://classroom.github.com/a/cWEgjJwm))|
-| 13 | 22 Nov | Scikit-Learn tutorials for ideas, [Activity10](https://classroom.github.com/a/wbtUJrkO)|
+| 12 | 13 Nov | Announcement of [Final Project]()|
+| 13 | 18 Nov | Decision Trees and Random Forests (see supplied tutorials for ideas, [Activity 09]())|
+| 13 | 22 Nov | Scikit-Learn tutorials for ideas, [Activity10]()|
 | 13 | 2 Dec | Presentations for activity 10|
 | 14 | 25 Nov | Work day on projects|
 | 16 | 4 Dec | OBC's research demo, Work day on projects, Course evaluations|
